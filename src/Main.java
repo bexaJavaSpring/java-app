@@ -5,10 +5,5 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Xush kelibsiz");
-
-        int a = 5;
-        int b = 2;
-        int S = a * b;
-        System.out.println("Natija: " + S);
     }
 }
