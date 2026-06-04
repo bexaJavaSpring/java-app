@@ -6,6 +6,9 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Xush kelibsiz");
 
-
+        int a = 5;
+        int b = 2;
+        int S = a * b;
+        System.out.println("Natija: " + S);
     }
 }
